@@ -1,0 +1,37 @@
+body {
+    background: rgb(82,138,1);
+    background: -moz-linear-gradient(90deg, rgba(82,138,1,1) 0%, rgba(0,255,97,1) 35%, rgba(0,255,217,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(82,138,1,1) 0%, rgba(0,255,97,1) 35%, rgba(0,255,217,1) 100%);
+    background: linear-gradient(90deg, rgba(82,138,1,1) 0%, rgba(0,255,97,1) 35%, rgba(0,255,217,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#528a01",endColorstr="#00ffd9",GradientType=1);  
+}
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    color: white;
+}
+h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: white;
+}
+p {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+}
+a {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(0, 132, 255);
+}
+.ye {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.tiny {
+    font-family: sans-serif;
+    font-size: 8px;
+    color: white;
+}
