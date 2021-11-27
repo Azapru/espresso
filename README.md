@@ -1,9 +1,5 @@
 # Latte
-Latte is an open-source text editor that uses the most of Notepad, TextEdit or other text editors and IDEs
-
-**DISCLAIMER:**
-
-Latte is NOT an IDE, because it's not designed for compiling code, only for editing it.
+Latte is an open-source text editor that uses the most of Notepad, TextEdit or other text editors (such as Atom or Sublime Text)
 
 # Buliding Latte
 To build Latte, you need to:
