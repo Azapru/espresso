@@ -1,8 +1,15 @@
-# Latte
-Latte is an open-source, fancy and cool text editor!
+# Espresso :coffee:
+Espresso is an open-source, fancy and cool text editor trying to add more features to [lime360's Latte](https://github.com/lime360/latte)!
 
-# Buliding Latte
-To build Latte, you need to:
+# Espresso features 
+- Very swag two editors in one window! :yum:  
+![swag](https://azapru.github.io/files/es1.png)  
+- Dark theme very good for your eyes :eyes:
+- UTF-8 Encoding! (more symbols and languages support yay) :clap:
+- Scripted in Lua :thumbsup:
+
+# Building Espresso (and Latte)
+To build Latte, you need to:  
 
 1. [Get Clickteam Fusion 2.5](https://store.steampowered.com/app/248170/Clickteam_Fusion_25/)
 2. Download the code and unpack latte_source.mfa file
