@@ -6,12 +6,10 @@ Espresso is an open-source, fancy and cool text editor trying to add more featur
 ![swag](https://azapru.github.io/files/es1.png)  
 - Dark theme very good for your eyes :eyes:
 - UTF-8 Encoding! (more symbols and languages support yay) :clap:
-- Live HTML Editor! :heart:  
-![editor](https://azapru.github.io/files/es2.png)
 - Scripted in Lua :thumbsup:
 
 # Building Espresso (and Latte)
-To build Espresso, you need to:
+To build Latte, you need to:
 
 1. [Get Clickteam Fusion 2.5](https://store.steampowered.com/app/248170/Clickteam_Fusion_25/)
 2. Download the code and unpack everything
@@ -21,7 +19,6 @@ To build Espresso, you need to:
 6. Click "Build" and pick the direction you want to save your compiled tool
 7. Copy these files/folders to directory where you exported Espresso:
 - Scripts/
-- HTML/
 - about.espresso
 - intro.espresso
 8. Great, now you can use Espresso!
