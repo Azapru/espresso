@@ -13,8 +13,8 @@ Azapru가 만든 에스프레소
 3. 'latte_source.mfa' 및 'html-view.mfa' 열기
 4. 폴더를 만들고 이름을 'build'로 지정한 후 다음 파일을 복사합니다:
    * `HTML\`
-   * 'secret\'
+   * `secret\`
    * `about.txt`
-   * 'changelog.txt'
+   * `changelog.txt`
 5. CTF2.5를 사용하여 'build' 폴더에 에스프레소 및 html-view 빌드
 6. 완료! :thumbsup:
