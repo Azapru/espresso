@@ -1,27 +1,20 @@
-# Espresso :coffee:
-Espresso is an open-source, fancy and cool text editor trying to add more features to [lime360's Latte](https://github.com/lime360/latte)!
+# Latte
+Latte is an open-source, fancy and cool text editor!
 
-# Espresso features 
-- Very swag two editors in one window!  :yum:
-![swag](https://azapru.github.io/files/es1.png)  
-- Dark theme very good for your eyes :eyes:
-- UTF-8 Encoding! (more symbols and languages support yay) :clap:
-- Live HTML Editor! :heart:  
-![editor](https://azapru.github.io/files/es2.png)
-- Scripted in Lua :thumbsup:
+# Buliding Latte
+To build Latte, you need to:
 
-# Building Espresso (and Latte)
-To build Espresso, you need to:
+1. [Get Clickteam Fusion 2.5](https://store.steampowered.com/app/248170/Clickteam_Fusion_25/) and [Inno Setup](https://jrsoftware.org/isinfo.php)
+2. Download the code or clone using Git
 
-1. [Get Clickteam Fusion 2.5](https://store.steampowered.com/app/248170/Clickteam_Fusion_25/)
-2. Download the code and unpack everything
-3. Open espresso.mfa in Fusion 2.5 editor
-4. If it missing any extension install it
-5. Pick Windows or any platform you want to export (you need to install additional exporters)
-6. Click "Build" and pick the direction you want to save your compiled tool
-7. Copy these files/folders to directory where you exported Espresso:
-- Scripts/
-- HTML/
-- about.espresso
-- intro.espresso
-8. Great, now you can use Espresso!
+## Application
+1. Open `latte_source.mfa`
+2. Create a folder and copy the following files:
+   * `changelog.txt`
+   * `secret/title.txt`
+3. Click "Build & Run" and you are done!
+
+## Installation
+1. Open `latte-setup.iss`
+2. Click "Run", it'll automatically create an installer
+3. You are done!

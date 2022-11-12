@@ -1,4 +1,5 @@
+set /p comment=
 git add --all
-git commit -m "Initial commit"
-git push origin master
+git commit -m "%comment%"
+git push
 pause

@@ -1,0 +1,11 @@
+--- 에스프레소 ---
+에스프레소는 라떼의 수정된 버전입니다. 어두운 테마, html 편집기 및 기타 작은 변경 사항을 즐기세요!
+Azapru가 만든 에스프레소
+
+--- Latte ---
+Latte is a text-editor that replicates Notepad
+
+Originally v1.5 was planned to be the last version of Latte, but then i changed my
+mind and finished it completely to be the remake of Notepad
+
+Developed by lime360 using Clickteam Fusion 2.5

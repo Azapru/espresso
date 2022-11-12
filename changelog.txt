@@ -1,0 +1,9 @@
+--- 에스프레소 2.0 ---
+* 사용자 인터페이스는 이제 Latte 2.5를 기반으로 합니다.
+* 새로운 어두운 테마! (지금은 더 어둡다 ㅋㅋㅋㅋㅋㅋㅋ)
+
+--- Latte v2.5 ---
+Changelog:
+
+* Changed encoding to UTF-8
+* Made it look like it's 100% Notepad
