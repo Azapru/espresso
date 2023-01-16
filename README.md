@@ -2,6 +2,8 @@
 에스프레소는 라떼의 수정된 버전입니다. 어두운 테마, html 편집기 및 기타 작은 변경 사항을 즐기세요!
 Azapru가 만든 에스프레소
 
+[Read the English version of README](README-ENG)
+
 # 에스프레소 기능
 - 좋은 어두운 테마! :eyes:
 - 라이브 HTML 편집기! :sparkles:
